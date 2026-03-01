@@ -1,5 +1,9 @@
 function Home() {
-    console.log("oi")
+  console.log("oi");
+}
+
+function teste() {
+  console.log("ok");
 }
 
 export default Home;
