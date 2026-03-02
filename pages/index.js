@@ -1,9 +1,5 @@
 function Home() {
-  console.log("oi");
-}
-
-function teste() {
-  console.log("ok");
+  return <h1>Hello</h1>;
 }
 
 export default Home;
